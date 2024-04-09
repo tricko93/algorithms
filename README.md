@@ -1,8 +1,10 @@
 # Algorithms
 
-After I successfully learned/remembered algorithm I commit it in it's separate
+After I successfully learn/remember the algorithm I commit it to its separate
 directory. And so, I tend to keep useful algorithms which are commonly used for
-future reference mainly.
+future reference mainly. Implementations are done in C++ and Python.
 
-Each algorithm will be implemented in C++ and Python.
+Contents
+
+    1. Insertion Sort
 
